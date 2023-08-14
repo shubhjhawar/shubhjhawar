@@ -21,17 +21,17 @@
 
 Here are some of the projects I've worked on:
 
-- 🖼️ [Pictopia](https://pictopiaaa.netlify.app/) - Online image-sharing platform for photographers and artists.
+- 🖼️ [Pictopia](https://pictopiaaa.netlify.app/) - Online image-sharing social-media platform.
 
-- 🎥 [VidVerse](https://vid-verse-lmmk.vercel.app/) - Video bookmarking and sharing platform.
+- 🎥 [VidVerse](https://vid-verse-lmmk.vercel.app/) - Video sharing social-media platform.
 
-- 🌌 [Illusiogen](https://illusiogen.vercel.app/) - Create mesmerizing illusions with interactive patterns.
+- 🌌 [Illusiogen](https://illusiogen.vercel.app/) - Image generator with OpenAi.
 
-- 🎵 [BeatBox](https://beatbox-ekrtmg8cy-shubhjhawar.vercel.app/) - Collaborative music creation and sharing platform.
+- 🎵 [BeatBox](https://beatbox-ekrtmg8cy-shubhjhawar.vercel.app/) - Sound Accessories E-commerce website.
 
-- ✈️ [SkyVoyage](https://skyvoyage.vercel.app/) - Explore destinations and plan your travels with this interactive app.
+- ✈️ [SkyVoyage](https://skyvoyage.vercel.app/) - Flight Booking system.
 
-- 🔗 [Threads Clone](https://threads-ashen.vercel.app/) - A front-end clone of a messaging application for seamless conversations.
+- 🔗 [Threads Clone](https://threads-ashen.vercel.app/) - working and responsive Threads app clone.
 
 Feel free to explore these projects and their source code!
 
