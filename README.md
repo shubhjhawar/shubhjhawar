@@ -8,8 +8,9 @@
 - 👨‍💻 All of my projects are available at [https://shubh-jhawar-portfolio.vercel.app/](https://shubh-jhawar-portfolio.vercel.app/)
 
 - 📫 How to reach me **shubhjhawar78@gmail.com**
-<br>
+
 ## Connect With Me:
+
 <p align="left">
 <a href="https://twitter.com/shubhjhawar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhjhawar3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubh-jhawar-069587192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh-jhawar-069587192" height="30" width="40" /></a>
