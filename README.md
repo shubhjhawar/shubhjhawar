@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubh</h1>
+<h3 align="center">I am a full stack developer with a background in machine learning</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhjhawar&label=Profile%20views&color=0e75b6&style=flat" alt="shubhjhawar" /> </p>
 
 <div id="header" align="center">
