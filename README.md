@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shubh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhjhawar&label=Profile%20views&color=0e75b6&style=flat" alt="shubhjhawar" /> </p>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 👨‍💻 All of my projects are available at [https://shubh-jhawar-portfolio.vercel.app/](https://shubh-jhawar-portfolio.vercel.app/)
 
 - 📫 How to reach me **shubhjhawar78@gmail.com**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhjhawar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhjhawar3" height="30" width="40" /></a>
