@@ -47,6 +47,3 @@ Feel free to explore these projects and their source code!
 
 ## GitHub:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhjhawar&show_icons=true&locale=en&layout=compact" alt="github" width="300" />
-
-## LeetCode:
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhjhawar&" alt="leetcode" width="350" />
